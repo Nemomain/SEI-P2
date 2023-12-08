@@ -17,8 +17,8 @@ This was a pair team effort by Gilberto Carnieli and Antonio Climent - 2 days
 * Github
 
 
-## [Space-Battle][space-battle] - JavaScript Application
-## [Space-Battle Repository][githubrepo] - Application Repository
+## [RickAndMorty App][RickAndMorty] - JavaScript Application
+## [RickAndMorty Repository][githubrepo] - Application Repository
 
 <!-- links where to find -->
 
